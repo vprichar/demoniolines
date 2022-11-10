@@ -5,9 +5,9 @@
    // Welcome!  New to Makerchip? Try the "Learn" menu.
    // =================================================
 
-   // Default Makerchip TL-Verilog Code Template
+   // Defaultdsqdadsdasd Makerchip TL-Verilog Code Template
    
-   // Macro providing required top-level module definition, random
+   // Macro  dos de pollodmeonnnnnnnnoeo providing required top-level module definition, random
    // stimulus support, and Verilator config.
    m4_makerchip_module   // (Expanded in Nav-TLV pane.)
 \TLV
